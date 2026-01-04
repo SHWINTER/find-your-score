@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#result {
+	width: 70%; 
+	height: 70%;
+}
+
+#run {
+	text-decoration: none;
+	color: white; 
+	padding: 5px 10px; 
+	background: #000000;
+	border-radius: 5px;
+	display: inline-block;
+}
